@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KamalNanda 
-- 🌱 Dynamic Full-Stack Engineer with 3 years of experience; as a Founding Engineer at Unbox Robotics, led the design and delivery of scalable web and mobile systems, driving cross-functional collaboration and high-impact user solutions in a fast-paced startup environment.
+- 🌱 Dynamic Full-Stack Engineer with 4 years of experience.
 - 📫 My Skill set - NodeJS, React, MongoDB, Postgresql, Flutter
 
 [![@kamalnanda's Holopin board](https://holopin.me/kamalnanda)](https://holopin.io/@kamalnanda)
