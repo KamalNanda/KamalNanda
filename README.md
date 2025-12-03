@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamalNanda 
 - 🌱 Dynamic Full-Stack Engineer with 4 years of experience.
-- 📫 My Skill set - NodeJS, React, MongoDB, Postgresql, Flutter
+- 📫 My Skill set - NodeJS, React, MongoDB, Postgresql, C++, Python, Flutter
 
 [![@kamalnanda's Holopin board](https://holopin.me/kamalnanda)](https://holopin.io/@kamalnanda)
 
